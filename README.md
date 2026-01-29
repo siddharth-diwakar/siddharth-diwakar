@@ -1,7 +1,3 @@
-## Hi there 👋
-
-### Selected Projects
-
 - **[LinkUp](https://github.com/siddharth-diwakar/linkup)**  
   instantly find out when your friends are free
 
