@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+### Selected Projects
+
+- **[LinkUp](https://github.com/siddharth-diwakar/linkup)**  
+  instantly find out when your friends are free
+
+- **[Caddy](https://github.com/siddharth-diwakar/caddy)**  
+  never miss a deadline again
+  
+- **[Compl.io](https://github.com/yourusername/compl-io)**  
+  compliance tracking for small businesses
+
+
 <!--
 **siddharth-diwakar/siddharth-diwakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
