@@ -1,10 +1,10 @@
-- **[LinkUp](https://github.com/siddharth-diwakar/linkup)**  
+- **[LinkUp](https://linkup-one-teal.vercel.app/)**  
   instantly find out when your friends are free
 
 - **[Caddy](https://github.com/siddharth-diwakar/syllabus)**  
   never miss a deadline again
   
-- **[Compl.io](https://github.com/yourusername/compl-io)**  
+- **[Compl.io](compl-b4l2ooec7-siddharth-diwakars-projects.vercel.app)**  
   compliance tracking for small businesses
 
 
