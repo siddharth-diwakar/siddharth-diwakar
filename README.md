@@ -1,7 +1,7 @@
 - **[LinkUp](https://github.com/siddharth-diwakar/linkup)**  
   instantly find out when your friends are free
 
-- **[Caddy](https://github.com/siddharth-diwakar/caddy)**  
+- **[Caddy](https://github.com/siddharth-diwakar/syllabus)**  
   never miss a deadline again
   
 - **[Compl.io](https://github.com/yourusername/compl-io)**  
